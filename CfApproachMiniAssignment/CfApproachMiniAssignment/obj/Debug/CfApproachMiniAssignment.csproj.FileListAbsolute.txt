@@ -1,0 +1,2 @@
+C:\Users\sihle\Downloads\SihleMiniAssignment\CfApproachMiniAssignment\CfApproachMiniAssignment\obj\Debug\CfApproachMiniAssignment.csproj.AssemblyReference.cache
+C:\Users\sihle\Downloads\SihleMiniAssignment\CfApproachMiniAssignment\CfApproachMiniAssignment\obj\Debug\CfApproachMiniAssignment.csproj.CoreCompileInputs.cache
